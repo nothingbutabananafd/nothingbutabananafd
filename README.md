@@ -1,5 +1,5 @@
 # Hello!!
-My name is Fiona and I am a Computer Science major at Pace University looking to work on educational projects and build my repertoire.
+My name is Fiona Dietz, and I am a Computer Science major at Pace University looking to work on educational projects and build my repertoire.
 
 ## Below Are My Credentials and Contact Information:
 
